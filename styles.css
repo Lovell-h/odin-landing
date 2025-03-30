@@ -14,9 +14,7 @@ body{
     padding: 16px;
     background-color: #1F2937;  
 }
-.header a {font-size: 18px;}
 a {
-    color:gray;
     text-decoration: none;
 }
 ul {
@@ -26,4 +24,22 @@ ul {
     margin:0;
     padding:0;
     gap:16px;
+}
+.main-text{
+    display:flex;
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+}
+.sec-text{
+    display:flex;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+.hero{
+    display:flex;
+    background-color:#1F2937
+}
+button{
+    color:#3882f6;
 }
