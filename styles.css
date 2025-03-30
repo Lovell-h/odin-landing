@@ -41,7 +41,7 @@ ul {
     font-size: 18px;
     color: #e5e7eb;
     align-self:flex-end;
-    justify-self: left;
+    justify-self:end;
 }
 .hero{
     display:flex;
