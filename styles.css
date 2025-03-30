@@ -30,6 +30,8 @@ ul {
     font-size: 48px;
     color: #f9faf8;
     font-weight: 900;
+    flex-direction: row;
+    
 }
 .sec-text{
     display:flex;
@@ -38,8 +40,10 @@ ul {
 }
 .hero{
     display:flex;
-    background-color:#1F2937
+    background-color:#1F2937;
+    flex-direction:row;
+    align-items:center;
 }
 button{
-    color:#3882f6;
+    background-color:#3882f6;
 }
