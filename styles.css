@@ -31,7 +31,7 @@ ul {
     color: #f9faf8;
     font-weight: 900;
     flex-direction: row;
-    
+    align-items: center;
 }
 .sectext{
     display:flex;
