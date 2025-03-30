@@ -33,7 +33,7 @@ ul {
     flex-direction: row;
     
 }
-.sec-text{
+.sectext{
     display:flex;
     font-size: 18px;
     color: #e5e7eb;
