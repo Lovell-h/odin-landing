@@ -40,7 +40,7 @@ ul {
     display:flex;
     font-size: 18px;
     color: #e5e7eb;
-    align-self: baseline;
+    align-self:flex-start;
 }
 .hero{
     display:flex;
