@@ -12,7 +12,9 @@ body{
     display:flex;
     justify-content:space-between;
     padding: 16px;
+    background-color: #1F2937;  
 }
+.header a {font-size: 18px;}
 a {
     color:gray;
     text-decoration: none;
