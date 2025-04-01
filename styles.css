@@ -45,6 +45,7 @@ button{
     padding: 8px 30px;
     border: none;
     border-radius: 5px;
+    flex-grow:0;
 }
 .hero-text > button{
     background-color: #3882f6;
