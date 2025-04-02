@@ -66,3 +66,16 @@ button{
     width: 800px;
     color:white;
 }
+.info-text {
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items:center;
+    gap: 50px;
+    padding: 10px 200px 100px;
+    color: #1F2937;
+    font-weight: 900;
+}
+.info-text > button{
+    background-color: #3882f6;
+    color: white;
