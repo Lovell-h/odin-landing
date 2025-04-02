@@ -79,3 +79,10 @@ button{
 .info-text > button{
     background-color: #3882f6;
     color: white;
+}
+.info-image{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color:white;
+    }
